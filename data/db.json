@@ -1,0 +1,619 @@
+{
+  "categories": [
+    {
+      "id": "1",
+      "name": "Productivity",
+      "slug": "productivity"
+    },
+    {
+      "id": "2",
+      "name": "Technology",
+      "slug": "technology"
+    },
+    {
+      "id": "3",
+      "name": "Lifestyle",
+      "slug": "lifestyle"
+    },
+    {
+      "id": "4",
+      "name": "Personal Growth",
+      "slug": "personal-growth"
+    },
+    {
+      "id": "1762209828423",
+      "name": "Parenting",
+      "slug": "test2"
+    },
+    {
+      "id": "1762211172337",
+      "name": "flyhigh",
+      "slug": "test25"
+    }
+  ],
+  "articles": [
+    {
+      "id": "1762262120072",
+      "title": "istanbul",
+      "slug": "istanbul",
+      "excerpt": "dsfsdf...",
+      "content": "dsfsdf",
+      "imageUrl": "https://picsum.photos/seed/0.2409848748663792/1200/800",
+      "imageHint": "istanbul",
+      "category": {
+        "id": "1762211172337",
+        "name": "flyhigh",
+        "slug": "test25"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxODcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      },
+      "publishedAt": "November 4, 2025",
+      "featured": true,
+      "videoUrl": "https://www.youtube.com/watch?v=u5ZFdOoGKEY",
+      "comments": []
+    },
+    {
+      "id": "1762254527103",
+      "title": "How I improved my relationship with my parents",
+      "slug": "how-i-improved-my-relationship-with-my-parents",
+      "excerpt": "\nIn the past, when I got a call from mom or dad, this is how I would react. Hi. But now, Hi.\n\nIn the...",
+      "content": "\nIn the past, when I got a call from mom or dad, this is how I would react. Hi. But now, Hi.\n\nIn the past, all the calls were the same. Same script. Did you eat? Yes, I ate. How are you? I'm good, you? Yes, yes. Okay, that's it. We were connected by biology, an obligation to love each other, but no depth or meaning.\n\nI think I figured out the problem. The problem is, we still see them as parents, and they see us as children. Let me explain.\n\nYou see, in childhood, we don't see our parents as parents. We think of them as superheroes. They can fix any problem we have.\n\nIf you're hungry, they give you food. If you cry, they soothe you. If you want to sleep, they put you to sleep. Any problem you had, they fixed it. So we don't see them as a human being. Human beings who have flaws, who make mistakes, who carry their own set of pain.\n\nOn the other side, they still see us as kids. They see us as kids who can't protect ourselves. You know, four years ago, I quit my very high-paying job. When I told my dad, he was absolutely against it. We fought a lot. And it really bothered me, until I understood this.\n\nI was still seeing him as a parent, who has to understand and fix my problem. And he was still seeing me as a kid, who cannot protect herself. But the truth is, we were just human beings, with fears and flaws. Trying to look out for each other. Care for each other.\n\nSo I realised, the first step in healing my relationship with my parents. I shouldn't see them as parents. I have to see them as humans, who've made mistakes. Show them compassion. Accept those mistakes. And hopefully, hope that they see me not just as a 15-year-old kid, who can't ride the scooter. But as an adult woman, who can take care of herself.\n\nAnd maybe that's the step you should take, to repair the relationship with your parents. Hope this helped.\n\n",
+      "imageUrl": "https://picsum.photos/seed/0.38239122136856807/1200/800",
+      "imageHint": "how i",
+      "category": {
+        "id": "1762209828423",
+        "name": "Parenting",
+        "slug": "test2"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxODcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      },
+      "publishedAt": "November 4, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000001",
+      "title": "AI Video Generators Are Changing How Content Gets Made",
+      "slug": "ai-video-generators-changing-content",
+      "excerpt": "Discover how AI tools are now producing entire videos, and what that means for creators.",
+      "content": "<p>Tools that generate full-length video from text prompts are rapidly growing in popularity. They're enabling creators, marketers and educators to produce high-quality video content without traditional filming.</p><p>In this article we'll explore the leading platforms offering AI-video generation, compare their strengths and limitations, and showcase real-world use-cases where this technology has moved from novelty to practical workflow.</p><p>We'll also address the ethical concerns: deep-fake risks, copyright implications, and the challenge of maintaining authenticity when machines generate visual narratives.</p><p>Lastly, we'll discuss how you can leverage AI video generators in 2025—what to look for, how to integrate them into your content pipeline, and key precautions to keep in mind as this tech becomes mainstream.</p>",
+      "imageUrl": "https://picsum.photos/seed/ai_video/1200/800",
+      "imageHint": "AI video creation",
+      "category": {
+        "id": "2",
+        "name": "Technology",
+        "slug": "technology"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000002",
+      "title": "How to Build Digital Habits That Stick in 2025",
+      "slug": "build-digital-habits-2025",
+      "excerpt": "Smart digital habits can improve your productivity and wellbeing—here's how.",
+      "content": "<p>In a world where screens dominate much of our time, forming the right digital habits matters more than ever. This article covers frameworks for time-use, tools to automate distractions, and ways to align technology with your life goals.</p><p>We'll dive into the psychology of habit formation, exploring why some digital behaviors stick and others falter—drawing on recent research and real-life case studies.</p><p>Next, we'll highlight specific tools and strategies: time-blocking apps, notification management, and digital detox routines that are practical and actionable in 2025.</p><p>Finally, we'll provide a step-by-step guide you can follow to build your own sustainable digital habit system—so you use tech as a tool, not a distraction.</p>",
+      "imageUrl": "https://picsum.photos/seed/digital_habits/1200/800",
+      "imageHint": "digital habits productivity",
+      "category": {
+        "id": "1",
+        "name": "Productivity",
+        "slug": "productivity"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000003",
+      "title": "Why Mental Wellness Is the Next Frontier for Tech Platforms",
+      "slug": "mental-wellness-next-frontier-tech",
+      "excerpt": "From apps to wearables, tech is shifting from productivity to wellness—here's why.",
+      "content": "<p>The technology industry is turning a major corner: mental-wellness features, apps, and wearables are becoming as important as productivity tools.</p><p>In this article we trace how wellness-tech has evolved: from fitness trackers to mood-tracking apps, to full platforms offering mental-health support and community.</p><p>We explore what this shift means for users, designers and wellbeing professionals—how design priorities are changing and what ethical issues arise when tech monitors emotional states.</p><p>We round off with practical advice: which wellness-tech tools to try in 2025, how to integrate them into daily routine, and what to watch out for in terms of data privacy and long-term impact.</p>",
+      "imageUrl": "https://picsum.photos/seed/mental_wellness_tech/1200/800",
+      "imageHint": "mental wellness tech",
+      "category": {
+        "id": "3",
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000004",
+      "title": "Sustainable Shopping: How Gen Z Is Redefining Consumption",
+      "slug": "sustainable-shopping-gen-z",
+      "excerpt": "Eco-friendly, ethical, second-hand: Gen Z's priorities are reshaping retail.",
+      "content": "<p>Consumption is undergoing a values-based shift. Younger generations are choosing sustainability, ethical supply chains and minimalism.</p><p>We look closely at how Gen Z is influencing brand strategy, what kinds of consumption behaviours are emerging, and how this impacts retail ecosystems.</p><p>We then examine concrete brand responses: packaging changes, circular economy launches, resale models, and how mainstream retailers are adapting (or missing out).</p><p>Finally, we offer practical tips for shoppers who want to align their purchasing with values—what questions to ask, how to evaluate claims, and how to build a more sustainable wardrobe or home setup.</p>",
+      "imageUrl": "https://picsum.photos/seed/sustainable_shopping/1200/800",
+      "imageHint": "sustainable shopping gen z",
+      "category": {
+        "id": "4",
+        "name": "Personal Growth",
+        "slug": "personal-growth"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000005",
+      "title": "The Remote-First Parenting Playbook 2025",
+      "slug": "remote-first-parenting-playbook",
+      "excerpt": "Parenting in a remote-work era: tips, tools and mind-shifts.",
+      "content": "<p>With remote and hybrid working now deeply rooted, parents face new challenges and opportunities. This article outlines the playbook for remote-first parenting: balancing work, presence, digital tools, and family life seamlessly.</p><p>We explore how home-office setups, flexible schedules and blurred boundaries impact parenting rhythms, and what parents are doing to adapt.</p><p>We highlight specific tools and routines: managing children's screen time, creating quiet zones, coordinating with partners, and keeping connection strong even when everyone is remote.</p><p>We finish with mindset shifts—how to rethink 'work vs family', why setting boundaries matters more than ever, and how to build a remote-first parenting culture that supports both productivity and presence.</p>",
+      "imageUrl": "https://picsum.photos/seed/remote_parenting/1200/800",
+      "imageHint": "remote first parenting",
+      "category": {
+        "id": "1762209828423",
+        "name": "Parenting",
+        "slug": "test2"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000006",
+      "title": "Quantum Computing: What It Means for Everyday Life",
+      "slug": "quantum-computing-everyday-life",
+      "excerpt": "How quantum breakthroughs will touch your phone, health and finances soon.",
+      "content": "<p>Quantum computing is no longer just in labs. We explore how qubits, superposition and quantum algorithms will impact consumer devices, healthcare, finance and what you can start doing now to prepare.</p><p>First, we break down quantum computing's key concepts into accessible language: what a qubit is, how superposition works, and why entanglement matters.</p><p>Next, we illustrate real-world implications: faster drug discovery, optimized logistics, new encryption methods—and how these could affect everyday life within the next few years.</p><p>Finally, we advise what you, as a consumer or professional, can do now: learn the right skills, monitor emerging tech vendors, and stay informed so you're ready for quantum's arrival.</p>",
+      "imageUrl": "https://picsum.photos/seed/quantum_everyday/1200/800",
+      "imageHint": "quantum computing everyday",
+      "category": {
+        "id": "2",
+        "name": "Technology",
+        "slug": "technology"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000007",
+      "title": "Minimalism in the Digital Age: Less = More",
+      "slug": "minimalism-in-digital-age",
+      "excerpt": "Digital minimalism is the lifestyle trend helping people regain focus and calm.",
+      "content": "<p>In the constant buzz of notifications, apps and devices, digital minimalism offers a path to clarity. Learn the strategies, apps to support minimalist digital habits, and how to declutter your digital world for better life design.</p><p>We examine what digital minimalism really means: not just reducing screen-time, but aligning your tech use with purpose, reducing cognitive load, and making room for creativity.</p><p>We dive into frameworks: configuring your device ecosystem, cleaning up your app usage, using slow tech practices, and setting boundaries around connectivity.</p><p>Finally, we guide you on how to build a minimal digital routine—daily rituals, mindful usage, and how to maintain it in a world of constant updates and demands.</p>",
+      "imageUrl": "https://picsum.photos/seed/digital_minimalism/1200/800",
+      "imageHint": "digital minimalism lifestyle",
+      "category": {
+        "id": "3",
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000008",
+      "title": "Team Communication in the Hybrid Era: New Rules",
+      "slug": "team-communication-hybrid-era",
+      "excerpt": "As hybrid work becomes default, team communication must evolve. Here's how.",
+      "content": "<p>The shift to hybrid and remote teams changes how we communicate, collaborate and lead. This article covers synchronous vs asynchronous work, tools that matter, feedback culture and building trust across distance.</p><p>We explore the core communication challenges: dispersed teams, time-zone differences, screen fatigue, and the risk of misalignment when some are onsite and others remote.</p><p>We review practical strategies: implementing async-first workflows, choosing the right tools (chat, video, shared docs), fostering inclusive culture, and ensuring clarity in protocols.</p><p>Lastly, we share leadership tips: how managers can support hybrid teams, keep morale high, track outcomes (not just hours), and build a resilient communication culture for 2025 and beyond.</p>",
+      "imageUrl": "https://picsum.photos/seed/hybrid_team_comm/1200/800",
+      "imageHint": "hybrid team communication",
+      "category": {
+        "id": "1",
+        "name": "Productivity",
+        "slug": "productivity"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000010",
+      "title": "Reading 20 Pages a Day in 2025: Why It Works",
+      "slug": "reading-20-pages-a-day-2025",
+      "excerpt": "A small reading habit can amplify knowledge, focus and creativity—here's the updated guide.",
+      "content": "<p>Reading remains a timeless habit—but in 2025 we're approaching it with new tools, formats and intentions. From e-readers to audio assisted reading, and focus-boosting techniques, we show you how to make reading 20 pages a day meaningful.</p><p>We analyse why this habit works: cognitive science, retention, creativity boost, and how incremental learning accumulates over time.</p><p>We provide practical routines: choosing what to read, when to read, building stamina, mixing formats (digital, print, audio) and measuring your progress.</p><p>Finally, we explore how to sustain the habit long term: how to keep momentum, make reading social, how to integrate it with your goals, and how to evolve it beyond just 20 pages.</p>",
+      "imageUrl": "https://picsum.photos/seed/reading_habit/1200/800",
+      "imageHint": "reading habit book",
+      "category": {
+        "id": "1762211172337",
+        "name": "flyhigh",
+        "slug": "test25"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000011",
+      "title": "The Rise of AI Agents: What They Can Do for You",
+      "slug": "rise-of-ai-agents-what-they-can-do-for-you",
+      "excerpt": "AI agents are growing rapidly—learn how they'll assist you in everyday tasks, work, and creativity.",
+      "content": "<p>AI agents – intelligent systems that act on our behalf – are becoming more capable and accessible. They're shifting from research labs to tools you can use at work, school, or home.</p><p>This article examines how AI agents work: how they interpret goals, plan actions, execute tasks across apps and services, and learn over time.</p><p>We highlight emerging use-cases: personal assistants that manage your schedule, writing assistants that draft content, design helpers that generate visuals, and multi-modal agents that combine text, image, audio and video.</p><p>We also explore the risks and considerations: control and trust, dependence on automation, data privacy and the impact on employment and creativity.</p><p>Lastly, we offer a guide: how to adopt AI agents wisely in 2025, what platforms are leading, pricing models to watch, and how to integrate them without losing control.</p>",
+      "imageUrl": "https://picsum.photos/seed/ai_agents/1200/800",
+      "imageHint": "AI agents technology",
+      "category": {
+        "id": "2",
+        "name": "Technology",
+        "slug": "technology"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000012",
+      "title": "AI-Driven Content: The New Era of Creative Workflows",
+      "slug": "ai-driven-content-new-era-creative-workflows",
+      "excerpt": "How AI tools are re-shaping writing, design and video workflows across industries.",
+      "content": "<p>The creative industry is undergoing transformation as AI-driven tools integrate into workflows previously dominated by human creativity. From text generation to generative art and video, the change is real.</p><p>We outline key tool categories: generative text (for blogs, scripts), AI design (for visuals, branding), video and audio generation, and synthetic data used in training and prototyping.</p><p>We assess case-studies: agencies and brands already deploying these tools, the productivity gains they report, and challenges they face such as originality, editorial control and bias in models.</p><p>We discuss what creatives must learn: new skills complimenting AI, supervising output, ensuring ethics and authenticity, and maintaining a human touch.</p><p>Lastly, we project the future for 2026 and beyond: what generative AI workflows might look like, how teams will shift roles, and how organisations can stay ahead of this wave.</p>",
+      "imageUrl": "https://picsum.photos/seed/ai_content/1200/800",
+      "imageHint": "AI content creation workflows",
+      "category": {
+        "id": "1",
+        "name": "Productivity",
+        "slug": "productivity"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000013",
+      "title": "Short-Form Video's Dominance and What It Means for Brands",
+      "slug": "short-form-videos-dominance-brands",
+      "excerpt": "Short-form video is winning attention: how brands are adapting to TikTok, Reels, Shorts and beyond.",
+      "content": "<p>The shift to short-form video is sweeping media: platforms like TikTok, Instagram Reels, and YouTube Shorts are dominating engagement metrics and commanding viewer attention.</p><p>We explore why short-form content works: attention economics, mobile-first consumption, algorithmic distribution and the psychology of bite-sized stories.</p><p>We analyse how brands are responding: standalone short-form campaigns, repurposing long-form content, micro-influencer strategies, and metrics that matter (beyond views to engagement and retention).</p><p>We also discuss the challenges: brand safety, oversaturation, creative fatigue, platform dependency and measurement issues.</p><p>Finally, we provide brand recommendations for 2025: testing formats, integrating short and long-form, building community across platforms and avoiding chasing trends without strategic depth.</p>",
+      "imageUrl": "https://picsum.photos/seed/shortform_video/1200/800",
+      "imageHint": "short form video marketing",
+      "category": {
+        "id": "3",
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000014",
+      "title": "Voice Search & Conversational UX: The New Search Frontier",
+      "slug": "voice-search-conversational-ux-new-search-frontier",
+      "excerpt": "With voice assistants and conversational interfaces rising, search is morphing into a dialogue—not just a query.",
+      "content": "<p>Search is evolving: voice assistants like Google Assistant, Siri and other conversational interfaces are making talking to the web the new norm.</p><p>We look at how voice-first user behaviour changes content discovery, keyword strategy, and how brands and publishers must adapt.</p><p>We examine design challenges and UX: natural language queries, context, follow-up questions, and how digital assistants surface results differently than traditional search.</p><p>We explore the implications for content creators and SEO: structured data, conversational copy, optimizing for featured snippets, and adapting to a world of multi-modal search.</p><p>Finally, we advise on what to do in 2025: audit your content for voice readiness, test conversational UX, monitor voice query analytics and plan for search as dialogue.</p>",
+      "imageUrl": "https://picsum.photos/seed/voice_search/1200/800",
+      "imageHint": "voice search ux",
+      "category": {
+        "id": "4",
+        "name": "Personal Growth",
+        "slug": "personal-growth"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000015",
+      "title": "Zero-Click Search: The SEO Shift Marketers Must Master",
+      "slug": "zero-click-search-seo-shift",
+      "excerpt": "As more answers appear directly in search results, traffic is changing. What marketers and publishers must know.",
+      "content": "<p>The rise of zero-click search—where users get answers on the results page without clicking through—is changing the traffic game. We explore how it works and why it matters.</p><p>We analyze data: what percent of searches result in no click, how Google's AI Overview and rich results surface content, and how this affects publishers' traffic and monetization.</p><p>We review strategies to adapt: optimizing for featured snippets, building brand visibility beyond click-throughs, focusing on engaged sessions rather than page visits.</p><p>We then discuss long-term implications: what the changing search ecosystem means for content strategy, revenue models and how publishers must evolve in 2025 and beyond.</p><p>Finally, we provide a roadmap: audit your site's zero-click risk, optimise your content structure, diversify traffic sources, and measure value beyond just clicks.</p>",
+      "imageUrl": "https://picsum.photos/seed/zero_click_search/1200/800",
+      "imageHint": "zero click search seo",
+      "category": {
+        "id": "1762209828423",
+        "name": "Parenting",
+        "slug": "test2"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000016",
+      "title": "From Entertainment to Education: How Video Games Are Evolving as Learning Platforms",
+      "slug": "video-games-as-learning-platforms",
+      "excerpt": "Gaming is not just for fun anymore—educators and developers are turning games into immersive learning tools.",
+      "content": "<p>The gaming industry is undergoing a transformation: what once was entertainment is now being used as a serious platform for learning, training, and engagement.</p><p>We explore trends: gamified learning, serious games, virtual worlds used for simulation and skill-building in sectors like healthcare, corporate training and higher education.</p><p>We examine how developers are designing games with pedagogical frameworks, integrating feedback loops, measuring learning outcomes and using game-data to optimize user progress.</p><p>We also discuss the challenges: access and equity, screen-time concerns, the need for evidence-based design, and how to balance fun with meaningful outcomes.</p><p>Finally, we propose how schools, businesses and individuals can incorporate game-based learning in 2025: best practices, platform choices, and the future of play to learn.</p>",
+      "imageUrl": "https://picsum.photos/seed/games_learning/1200/800",
+      "imageHint": "gaming learning platform",
+      "category": {
+        "id": "2",
+        "name": "Technology",
+        "slug": "technology"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000017",
+      "title": "Health Tech at Home: The Smart Devices That Are Becoming Everyday Essentials",
+      "slug": "health-tech-at-home-smart-devices",
+      "excerpt": "Home health tech is booming: from sleep trackers to bio-feedback wearables, here's what's trending in 2025.",
+      "content": "<p>Health technology is moving from clinics and labs into our homes: smart devices for sleep, stress, fitness, nutrition and biometrics are becoming mainstream.</p><p>We look at key categories: wearables, home diagnostics, tele-health integrations, and how consumers are adopting them for proactive health management rather than reactive care.</p><p>We examine implications: data privacy, interoperability, health inequality, and regulation as devices collect personal health data and link into broader health systems.</p><p>We present actual devices and trends to watch in 2025, how to evaluate them, how to integrate into your lifestyle and when to treat them as tools—not replacements for professional care.</p><p>Finally, we discuss how health-tech at home connects with preventative wellbeing, budgeting for tech, and staying informed in a fast-moving space.</p>",
+      "imageUrl": "https://picsum.photos/seed/health_tech_home/1200/800",
+      "imageHint": "home health tech devices",
+      "category": {
+        "id": "1",
+        "name": "Productivity",
+        "slug": "productivity"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000018",
+      "title": "Eco-Innovation: How Start-ups Are Tackling Climate Tech in 2025",
+      "slug": "eco-innovation-startups-climate-tech-2025",
+      "excerpt": "Climate tech is heating up—start-ups, investors and innovators are moving fast. What you need to know.",
+      "content": "<p>Climate technology—technologies aimed at mitigating or adapting to climate change—is no longer niche. Start-ups are receiving major funding, large companies are pivoting and the urgency is clear.</p><p>We examine promising categories: carbon capture, sustainable materials, energy storage, circular economy business models and nature-based solutions.</p><p>We explore how start-ups are scaling, what investor expectations look like, what regulatory frameworks are emerging, and how market maturity is shaping climate tech in 2025.</p><p>We highlight challenges: hardware-intensity, long time-horizons, supply-chain dependencies, market readiness and how consumers can support these innovations.</p><p>Finally, we provide a guide for entrepreneurs and consumers: how to evaluate climate-tech startups, how to engage responsibly, and what opportunities are opening in this fast-moving space.</p>",
+      "imageUrl": "https://picsum.photos/seed/climate_tech_startups/1200/800",
+      "imageHint": "climate tech startups innovation",
+      "category": {
+        "id": "3",
+        "name": "Lifestyle",
+        "slug": "lifestyle"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    },
+    {
+      "id": "2000000000005",
+      "title": "London, England: Royal Heritage & Modern Culture in 6 Days",
+      "slug": "london-england-royal-heritage-modern-culture",
+      "excerpt": "Explore centuries of history while experiencing London's vibrant contemporary scene.",
+      "content": "<p>London attracts over 19 million international tourists annually, making it one of Europe's most visited destinations. This 6-day itinerary covers royal palaces, world-class museums, and diverse neighborhoods.</p><p><strong>Day 1-2: Royal London</strong> - Watch the Changing of the Guard at Buckingham Palace, tour Westminster Abbey, see Big Ben and Parliament, cruise the Thames, visit the Tower of London and Crown Jewels, and walk across Tower Bridge.</p><p><strong>Day 3: Museums & Culture</strong> - Explore the British Museum (free entry), visit the National Gallery in Trafalgar Square, stroll through Covent Garden's performers and shops, and catch a West End theatre show.</p><p><strong>Day 4: Modern London</strong> - Ride the London Eye, tour Tate Modern, walk along South Bank, cross Millennium Bridge to St. Paul's Cathedral, and explore Borough Market for diverse cuisine.</p><p><strong>Day 5-6: Neighborhoods & Day Trips</strong> - Discover Notting Hill's colorful houses and Portobello Market, explore Camden's alternative scene, shop on Oxford Street, visit Harry Potter studios, or take a day trip to Windsor Castle, Stonehenge, or Bath. Best time: May-September for pleasant weather, though London's museums and indoor attractions shine year-round.</p>",
+      "imageUrl": "https://picsum.photos/seed/london_bigben/1200/800",
+      "imageHint": "London Big Ben Westminster",
+      "category": {
+        "id": "1762211172337",
+        "name": "flyhigh",
+        "slug": "test25"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxODcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      },
+      "publishedAt": "November 4, 2025",
+      "featured": false
+    },
+    {
+      "id": "2000000000006",
+      "title": "Rome, Italy: Ancient Wonders & Culinary Delights",
+      "slug": "rome-italy-ancient-wonders-culinary",
+      "excerpt": "Walk through 2,500 years of history while savoring authentic Italian cuisine in the Eternal City.",
+      "content": "<p>Rome welcomes over 10 million visitors annually to experience its unmatched historical treasures. This 5-day itinerary balances ancient sites, Renaissance art, and gastronomic experiences.</p><p><strong>Day 1: Ancient Rome</strong> - Tour the Colosseum and Roman Forum (book skip-the-line tickets), climb Palatine Hill for panoramic views, visit Circus Maximus, and enjoy aperitivo in Trastevere.</p><p><strong>Day 2: Vatican City</strong> - Explore Vatican Museums and Sistine Chapel (arrive early), visit St. Peter's Basilica, climb the dome for city views, admire St. Peter's Square, and dine in Prati neighborhood.</p><p><strong>Day 3: Baroque Rome</strong> - Throw a coin in Trevi Fountain, climb the Spanish Steps, explore Pantheon's ancient dome, tour Piazza Navona's fountains, and experience Rome's nightlife in Campo de' Fiori.</p><p><strong>Day 4-5: Hidden Gems</strong> - Visit Villa Borghese gardens and gallery, explore Aventine Hill's Orange Garden and keyhole view, discover Jewish Ghetto's history and cuisine, shop Via del Corso, take a cooking class to learn pasta-making, and consider day trips to Pompeii or Tivoli gardens. Best months: April-May or September-October for comfortable weather and manageable crowds.</p>",
+      "imageUrl": "https://picsum.photos/seed/rome_colosseum/1200/800",
+      "imageHint": "Rome Colosseum ancient ruins",
+      "category": {
+        "id": "1762211172337",
+        "name": "flyhigh",
+        "slug": "test25"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxODcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      },
+      "publishedAt": "November 4, 2025",
+      "featured": false
+    },
+    {
+      "id": "2000000000007",
+      "title": "Barcelona, Spain: Gaudí's Masterpieces & Mediterranean Vibes",
+      "slug": "barcelona-spain-gaudi-mediterranean",
+      "excerpt": "Experience Catalan culture through stunning architecture, beaches, and world-class tapas.",
+      "content": "<p>Barcelona attracts over 9 million international visitors yearly with its unique blend of Gothic and modernist architecture. This 5-day itinerary showcases Gaudí's works, beach culture, and culinary excellence.</p><p><strong>Day 1: Gaudí's Architecture</strong> - Tour Sagrada Família (book timed tickets in advance), explore Park Güell's whimsical mosaics, visit Casa Batlló on Passeig de Gràcia, and enjoy dinner in the Gothic Quarter.</p><p><strong>Day 2: Gothic Quarter & Las Ramblas</strong> - Wander medieval streets, visit Barcelona Cathedral, explore Plaça Reial, walk Las Ramblas to Boqueria Market, discover El Born neighborhood, and visit Picasso Museum.</p><p><strong>Day 3: Beach & Montjuïc</strong> - Relax at Barceloneta Beach, lunch at beachfront chiringuitos, cable car to Montjuïc Hill, tour Montjuïc Castle, visit Magic Fountain evening show, and explore Olympic Ring.</p><p><strong>Day 4-5: Local Experiences</strong> - Take a cooking class for paella and tapas, visit Camp Nou stadium (FC Barcelona), explore Gràcia neighborhood's bohemian squares, shop in El Raval, experience flamenco show, and consider day trips to Montserrat monastery or Girona's medieval town. Ideal visits: May-June or September-October for beach weather without peak summer crowds.</p>",
+      "imageUrl": "https://picsum.photos/seed/barcelona_sagrada/1200/800",
+      "imageHint": "Barcelona Sagrada Familia architecture",
+      "category": {
+        "id": "1762211172337",
+        "name": "flyhigh",
+        "slug": "test25"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxODcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      },
+      "publishedAt": "November 4, 2025",
+      "featured": false
+    },
+    {
+      "id": "2000000000008",
+      "title": "Istanbul, Turkey: Where East Meets West",
+      "slug": "istanbul, turkey: where east meets west",
+      "excerpt": "Istanbul welcomes over 13 million tourists annually to experience its unique position bridging Europe and Asia. This 5-day itinerary covers Byzantine ...",
+      "content": "<p>Istanbul welcomes over 13 million tourists annually to experience its unique position bridging Europe and Asia. This 5-day itinerary covers Byzantine churches, Ottoman palaces, and vibrant bazaars.</p><p><strong>Day 1: Sultanahmet District</strong> - Visit Hagia Sophia's stunning dome, explore the Blue Mosque's intricate tiles, tour Topkapi Palace and Harem, see the Basilica Cistern's ancient columns, and enjoy Turkish tea in Sultanahmet Square.</p><p><strong>Day 2: Grand Bazaar & Spice Market</strong> - Navigate the Grand Bazaar's 4,000 shops, explore Egyptian Spice Bazaar's colorful stalls, visit Süleymaniye Mosque, experience a traditional hammam, and dine on meze and kebabs.</p><p><strong>Day 3: Bosphorus & Asian Side</strong> - Take a Bosphorus cruise between continents, visit Dolmabahçe Palace's opulent rooms, cross to Asian side by ferry, explore Kadıköy's markets and street food, and enjoy sunset views from Çamlıca Hill.</p><p><strong>Day 4-5: Modern Istanbul</strong> - Walk down Istiklal Street to Taksim Square, ride historic tram, visit Galata Tower for panoramic views, explore trendy Karaköy and Balat neighborhoods, experience Istanbul Modern art museum, take a Bosphorus dinner cruise, and shop for carpets, ceramics, and Turkish delight. Visit April-May or September-November for pleasant weather.</p>",
+      "imageUrl": "https://picsum.photos/seed/istanbul_mosque/1200/800",
+      "imageHint": "Istanbul Blue Mosque Bosphorus",
+      "category": {
+        "id": "1762211172337",
+        "name": "flyhigh",
+        "slug": "test25"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxODcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      },
+      "publishedAt": "November 4, 2025",
+      "featured": false,
+      "videoUrl": "https://www.youtube.com/watch?v=u5ZFdOoGKEY"
+    },
+    {
+      "id": "2000000000009",
+      "title": "Bangkok, Thailand: Temples, Street Food & Night Markets",
+      "slug": "bangkok-thailand-temples-street-food",
+      "excerpt": "Navigate the bustling Thai capital's golden temples, floating markets, and legendary street food scene.",
+      "content": "<p>Bangkok attracts over 22 million visitors annually, making it one of the world's most visited cities. This 5-day itinerary balances cultural sites, culinary adventures, and shopping experiences.</p><p><strong>Day 1: Grand Palace & Wat Pho</strong> - Tour the Grand Palace complex and Emerald Buddha Temple (dress modestly), visit Wat Pho's massive Reclining Buddha, get a traditional Thai massage, cross the river to Wat Arun's stunning spires, and take a sunset dinner cruise on Chao Phraya River.</p><p><strong>Day 2: Markets & Old Town</strong> - Visit Damnoen Saduak Floating Market early morning, explore Maeklong Railway Market's train passing through, wander Chinatown's gold shops and street food, discover Pak Khlong Talat flower market, and experience Khao San Road's backpacker scene.</p><p><strong>Day 3: Modern Bangkok</strong> - Shop at Siam Paragon and MBK Center, visit Jim Thompson House Museum, explore Chatuchak Weekend Market (15,000 stalls), dine at rooftop bars with skyline views, and experience Asiatique riverfront night market.</p><p><strong>Day 4-5: Food & Culture</strong> - Take a cooking class to learn Thai dishes, explore diverse neighborhoods by tuk-tuk, visit contemporary art galleries, cruise Bangkok's canals (khlongs), experience Muay Thai boxing match, get street food at Yaowarat Road, and consider day trips to Ayutthaya ruins or Erawan Falls. Best time: November-February for cooler, dry weather.</p>",
+      "imageUrl": "https://picsum.photos/seed/bangkok_temple/1200/800",
+      "imageHint": "Bangkok Grand Palace temple",
+      "category": {
+        "id": "1762211172337",
+        "name": "flyhigh",
+        "slug": "test25"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxODcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      },
+      "publishedAt": "November 4, 2025",
+      "featured": false
+    },
+    {
+      "id": "2000000000010",
+      "title": "Singapore: The Garden City in 4 Days",
+      "slug": "singapore-garden-city-4-days",
+      "excerpt": "Experience futuristic architecture, diverse cuisine, and lush gardens in Asia's most efficient city.",
+      "content": "<p>Singapore welcomes over 14 million international visitors yearly to its clean, efficient, and culturally diverse city-state. This 4-day itinerary covers iconic attractions and hidden neighborhoods.</p><p><strong>Day 1: Marina Bay</strong> - Visit Gardens by the Bay's Supertrees and Cloud Forest, explore Marina Bay Sands SkyPark for views, watch the nightly light and water show, stroll the waterfront, and dine at hawker centers for authentic local food.</p><p><strong>Day 2: Cultural Districts</strong> - Explore Chinatown's temples and heritage shops, visit Little India's colorful streets and Sri Veeramakaliamman Temple, discover Kampong Glam's Sultan Mosque and Haji Lane's boutiques, and experience diverse cuisine in each neighborhood.</p><p><strong>Day 3: Sentosa Island</strong> - Relax on Sentosa's beaches, visit Universal Studios Singapore, explore S.E.A. Aquarium, try adventure activities like ziplining or luge, and enjoy evening entertainment at various shows.</p><p><strong>Day 4: Nature & Shopping</strong> - Walk MacRitchie TreeTop Walk through rainforest canopy, visit Singapore Zoo or Night Safari, shop on Orchard Road's luxury malls, explore Tiong Bahru's hipster cafés and art deco architecture, and enjoy rooftop bars. Singapore is hot and humid year-round, but covered walkways and efficient MRT make navigation easy. Visit during Chinese New Year for festivals or Formula 1 weekend for racing excitement.</p>",
+      "imageUrl": "https://picsum.photos/seed/singapore_marina/1200/800",
+      "imageHint": "Singapore Marina Bay Sands skyline",
+      "category": {
+        "id": "1762211172337",
+        "name": "flyhigh",
+        "slug": "test25"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxODcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      },
+      "publishedAt": "November 4, 2025",
+      "featured": false
+    },
+    {
+      "id": "2000000000011",
+      "title": "Amsterdam, Netherlands: Canals, Museums & Cycling Culture",
+      "slug": "amsterdam-netherlands-canals-museums",
+      "excerpt": "Pedal through picturesque canal rings while exploring world-class art and liberal Dutch culture.",
+      "content": "<p>Amsterdam draws over 9 million tourists yearly to experience its UNESCO-listed canal belt and cultural treasures. This 4-day itinerary balances museums, cycling, and neighborhood exploration.</p><p><strong>Day 1: Museum Quarter</strong> - Visit Rijksmuseum for Dutch Golden Age art (including Rembrandt's Night Watch), explore Van Gogh Museum's extensive collection, photograph the I Amsterdam sign, stroll through Vondelpark, and dine in De Pijp neighborhood.</p><p><strong>Day 2: Canal Belt & Anne Frank</strong> - Take a canal boat cruise through historic waterways, visit Anne Frank House (book months in advance), explore Jordaan's charming streets and boutiques, visit Westerkerk church tower for views, and enjoy brown café culture.</p><p><strong>Day 3: Cycling & Markets</strong> - Rent a bike to explore like locals, visit Albert Cuyp outdoor market, explore NDSM artistic neighborhood, discover Haarlemmerstraat's shops, visit Bloemenmarkt floating flower market, and experience Leidseplein's nightlife.</p><p><strong>Day 4: Day Trips & Hidden Gems</strong> - Take day trips to windmills at Zaanse Schans, cheese markets in Alkmaar, or tulip fields in Keukenhof (spring only). Alternatively, explore Amsterdam Noord by free ferry, visit Micropia microbe museum, discover FOAM photography museum, and shop Nine Streets boutique area. Best time: April-May for tulips and King's Day celebrations, or September for pleasant weather and fewer crowds.</p>",
+      "imageUrl": "https://picsum.photos/seed/amsterdam_canal/1200/800",
+      "imageHint": "Amsterdam canal houses bicycles",
+      "category": {
+        "id": "1762211172337",
+        "name": "flyhigh",
+        "slug": "test25"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxODcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      },
+      "publishedAt": "November 4, 2025",
+      "featured": false
+    },
+    {
+      "id": "2000000000012",
+      "title": "Sydney, Australia: Harbor City Adventure in 5 Days",
+      "slug": "sydney-australia-harbor-city-adventure",
+      "excerpt": "Explore iconic beaches, stunning harbor views, and diverse neighborhoods in Australia's largest city.",
+      "content": "<p>Sydney welcomes over 4 million international visitors annually with its stunning harbor and outdoor lifestyle. This 5-day itinerary balances iconic sites, beach culture, and natural beauty.</p><p><strong>Day 1: Harbour Icons</strong> - Tour Sydney Opera House (book guided tour), walk across Sydney Harbour Bridge or do BridgeClimb, explore The Rocks historic district, visit Royal Botanic Garden, and enjoy sunset at Mrs Macquarie's Chair viewpoint.</p><p><strong>Day 2: Beach Day</strong> - Start at Bondi Beach for swimming or surfing lessons, walk the scenic coastal path from Bondi to Coogee (2 hours), swim at Bronte or Clovelly, enjoy fish and chips at the beach, and watch sunset from Bondi Icebergs pool.</p><p><strong>Day 3: Harbour Cruises & Suburbs</strong> - Take ferry to Manly Beach for surf and shops, visit Taronga Zoo with harbour views, explore Darling Harbour's attractions, dine at Barangaroo waterfront restaurants, and consider evening harbour cruise.</p><p><strong>Day 4-5: Culture & Nature</strong> - Visit Art Gallery of New South Wales, explore trendy Surry Hills and Newtown neighborhoods, shop in Paddington's boutiques, hike in Blue Mountains (day trip to Three Sisters), visit Hunter Valley wineries, discover Chinatown and Haymarket, and experience Sydney's diverse dining scene. Best time: September-November (spring) or March-May (autumn) for perfect weather and outdoor activities.</p>",
+      "imageUrl": "https://picsum.photos/seed/sydney_opera/1200/800",
+      "imageHint": "Sydney Opera House Harbour Bridge",
+      "category": {
+        "id": "1762211172337",
+        "name": "flyhigh",
+        "slug": "test25"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxODcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      },
+      "publishedAt": "November 4, 2025",
+      "featured": false
+    },
+    {
+      "id": "2000000000013",
+      "title": "Prague, Czech Republic: Medieval Magic in 4 Days",
+      "slug": "prague-czech-republic-medieval-magic",
+      "excerpt": "Wander through fairy-tale streets, Gothic architecture, and centuries of Central European history.",
+      "content": "<p>Prague attracts over 8 million tourists yearly to experience its remarkably preserved medieval architecture. This 4-day itinerary covers historic sites, castle tours, and Czech beer culture.</p><p><strong>Day 1: Old Town & Jewish Quarter</strong> - Marvel at the Astronomical Clock in Old Town Square, climb Old Town Hall Tower, cross Charles Bridge at sunrise, explore Josefov Jewish Quarter's synagogues, visit the hauntingly beautiful Old Jewish Cemetery, and enjoy traditional Czech dinner.</p><p><strong>Day 2: Prague Castle</strong> - Tour Prague Castle complex (Europe's largest), visit St. Vitus Cathedral's Gothic spires, explore Golden Lane's colorful houses, watch changing of guards, stroll through Royal Gardens, and enjoy views from castle terraces.</p><p><strong>Day 3: Lesser Town & Petřín</strong> - Wander Malá Strana's baroque palaces, visit St. Nicholas Church, climb Petřín Tower (Prague's mini Eiffel Tower), explore Lennon Wall's street art, discover Kampa Island, and experience a classical music concert.</p><p><strong>Day 4: Modern Prague & Beer Culture</strong> - Visit Dancing House's unique architecture, explore Vyšehrad fortress and cemetery, tour traditional Czech pubs in Žižkov, sample Czech beer at U Fleků brewery (1499), discover Wenceslas Square's history, shop for Bohemian crystal, and consider day trips to Kutná Hora's bone church or Český Krumlov. Best months: April-May or September-October for pleasant weather without peak summer crowds.</p>",
+      "imageUrl": "https://picsum.photos/seed/prague_castle/1200/800",
+      "imageHint": "Prague Castle Charles Bridge",
+      "category": {
+        "id": "1762211172337",
+        "name": "flyhigh",
+        "slug": "test25"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxODcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      },
+      "publishedAt": "November 4, 2025",
+      "featured": false
+    },
+    {
+      "id": "1000000000009",
+      "title": "Travel & Work: The Rise of the Digital Nomad 2.0",
+      "slug": "digital-nomad-2-0",
+      "excerpt": "Working from anywhere has evolved—here's the new digital nomad playbook for 2025.",
+      "content": "<p>The idea of travel + work isn't new, but digital nomadism is entering its second phase: long-term stays, community hubs, local business integration, and wellness-first itineraries. Explore how to do it sustainably and effectively.</p><p>We discuss how nomads are shifting from short-term backpacking to semi-permanent hubs, co-living & co-working spaces with community and infrastructure built for remote work.</p><p>Next, we look at key considerations: visas, taxes, local culture, health care, digital infrastructure and how to balance exploration with stability.</p><p>Finally, we provide a checklist: gear you need, network you need, routines you should build, how to avoid burnout on the road, and how to turn your nomad lifestyle into long-term productivity and wellbeing.</p>",
+      "imageUrl": "https://picsum.photos/seed/digital_nomad2/1200/800",
+      "imageHint": "digital nomad work travel",
+      "category": {
+        "id": "1762211172337",
+        "name": "flyhigh",
+        "slug": "test25"
+      },
+      "author": {
+        "name": "Admin User",
+        "avatarUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxODcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080"
+      },
+      "publishedAt": "November 3, 2025",
+      "featured": false
+    }
+  ]
+}

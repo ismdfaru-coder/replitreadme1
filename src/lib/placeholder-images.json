@@ -1,0 +1,52 @@
+{
+  "placeholderImages": [
+    {
+      "id": "article-1",
+      "description": "A person working on a laptop in a modern office.",
+      "imageUrl": "https://images.unsplash.com/photo-1689467909244-631e55404336?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxvZmZpY2UlMjBwcm9kdWN0aXZpdHl8ZW58MHx8fHwxNzYyMjAyNDE4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "office productivity"
+    },
+    {
+      "id": "article-2",
+      "description": "Abstract network connections.",
+      "imageUrl": "https://images.unsplash.com/photo-1667264501379-c1537934c7ab?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWNobm9sb2d5JTIwbmV0d29ya3xlbnwwfHx8fDE3NjIxNTg3OTd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "technology network"
+    },
+    {
+      "id": "article-3",
+      "description": "Someone meditating in a peaceful natural setting.",
+      "imageUrl": "https://images.unsplash.com/photo-1527633961552-6c798340c261?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxtaW5kZnVsbmVzcyUyMHBlYWNlfGVufDB8fHx8MTc2MjIwMjQxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "mindfulness peace"
+    },
+    {
+      "id": "article-4",
+      "description": "A close-up of a futuristic circuit board.",
+      "imageUrl": "https://images.unsplash.com/photo-1568952433726-3896e3881c65?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxmdXR1cmUlMjB0ZWNobm9sb2d5fGVufDB8fHx8MTc2MjIwMjQxOHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "future technology"
+    },
+    {
+      "id": "article-5",
+      "description": "A group of people collaborating around a table.",
+      "imageUrl": "https://images.unsplash.com/photo-1522071820081-009f0129c71c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx0ZWFtJTIwY29sbGFib3JhdGlvbnxlbnwwfHx8fDE3NjIxNTIyODR8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "team collaboration"
+    },
+    {
+      "id": "article-6",
+      "description": "A beautiful landscape representing travel and adventure.",
+      "imageUrl": "https://images.unsplash.com/photo-1528543606781-2f6e6857f318?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx0cmF2ZWwlMjBhZHZlbnR1cmV8ZW58MHx8fHwxNzYyMDkyMDY5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "travel adventure"
+    },
+    {
+      "id": "article-7",
+      "description": "A person reading a book in a cozy corner.",
+      "imageUrl": "https://images.unsplash.com/photo-1603284569248-821525309698?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxyZWFkaW5nJTIwYm9va3xlbnwwfHx8fDE3NjIxNzgwNTN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "reading book"
+    },
+    {
+      "id": "author-avatar",
+      "description": "Avatar for the default author.",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjIxODcyNzB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    }
+  ]
+}
